@@ -6,11 +6,11 @@
 
 This project transforms the classic Adventure Works bike shop dataset into a sleek, interactive dashboard. Whether you're tracking revenue spikes from mountain bike sales or spotting underperforming territories, it's all about turning data into decisions—without breaking a sweat. Built as part of my BI portfolio (Phase 2: Visualization & Interactivity), it's a quick demo of how modern tools make business intel fun and actionable.
 
-![Dashboard 1](screenshots/Screnshot 2025-09-29 214128.png)
+![Dashboard 1](screenshots/Screenshot_2025-09-29_214128.png)
 
-![Dashboard 2](screenshots/Screenshot 2025-09-29 214227.png)
+![Dashboard 2](screenshots/Screenshot_2025-09-29_214227.png)
 
-*Sample view: Category revenue trends and territory breakdowns. (Pro tip: Click the live link below to filter by "Bikes" and watch the magic!)*
+*Sample view: Category revenue trends and territory breakdowns. 
 
 ## 📊 Key Insights at a Glance
 - **Revenue Rocket:** Total sales hit $110M across 2011-2014, with a 15% YoY growth fueled by Components and Accessories.
@@ -57,4 +57,3 @@ This is [Phase 2 of my BI Portfolio](https://your-portfolio-link.com/projects#bi
 **Built with ❤️ for turning spreadsheets into stories. Let's ride!** 🏔️🚴‍♂️
 
 ---
-
